@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Facundo Herrera a Full Stack web developer, this is my github space and I hope you can analyze my projects that I have done and that are under development.<br>I'm looking for new experiences in the programming world, so if you are looking for an honest and willing to work person, don't hesitate to contact me.
+I'm Facundo Herrera a Full Stack Web developer, this is my github space and I hope you can analyze my projects that I have done and that are under development.<br>I'm looking for new experiences in the programming world, so if you are looking for an honest and willing to work person, don't hesitate to contact me.
 
 
 ## 🌐 Socials:
