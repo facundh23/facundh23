@@ -67,9 +67,11 @@ I'm Facundo Herrera a Full Stack Web developer, this is my github space and I ho
 ## 🤖 IA / LLMs  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)
-![Voyage AI](https://img.shields.io/badge/Voyage%20AI-00BFFF?style=for-the-badge&logo=voyage&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-6366F1?style=for-the-badge&logoColor=white)
+![Voyage AI](https://img.shields.io/badge/Voyage%20AI-00BFFF?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 
