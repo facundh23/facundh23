@@ -19,6 +19,7 @@ I'm Facundo Herrera a Full Stack Web developer, this is my github space and I ho
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -67,6 +68,9 @@ I'm Facundo Herrera a Full Stack Web developer, this is my github space and I ho
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Voyage AI](https://img.shields.io/badge/Voyage%20AI-00BFFF?style=for-the-badge&logo=voyage&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6366F1?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 # 📊 GitHub Stats:
