@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer & AI Engineer
 
-💼 3+ years building responsive interfaces and backend solutions  
+💼 4+ years building responsive interfaces and backend solutions  
 🎯 Passionate about clean code, AI and automation  
 🌱 Currently exploring LLMs, FastAPI and modern architectures  
 🤝 Open to remote opportunities and interesting projects  
